@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manohar T H</h1>
-<h3 align="center">A 1st Year student @BMSCE pursuing MCA degree in Computer Applications as Major. I'm passionate about technology and constantly exploring new ways to apply my skills to solve problems.</h3>
-
+<!-- <h3 align="center">A 1st Year student @BMSCE pursuing MCA degree in Computer Applications as Major. I'm passionate about technology and constantly exploring new ways to apply my skills to solve problems.</h3>
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybmanuer&label=Profile%20views&color=0e75b6&style=flat" alt="cybmanuer" /> </p>
 
 
